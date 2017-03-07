@@ -1,3 +1,2 @@
-you are a gay.
-I think that you must confirm it !
-yoyoyoyo gay gay!
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
